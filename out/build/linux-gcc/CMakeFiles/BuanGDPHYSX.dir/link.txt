@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -Wl,--dependency-file=CMakeFiles/BuanGDPHYSX.dir/link.d CMakeFiles/BuanGDPHYSX.dir/src/main.cpp.o -o BuanGDPHYSX  /home/hiraya/vcpkg/installed/x64-linux/debug/lib/libglfw3.a libglad.a /usr/lib/libglm.a /usr/lib/librt.a -lm -ldl /usr/lib/libGLX.so /usr/lib/libOpenGL.so -lgcc_s_asneeded -lgcc_s_asneeded

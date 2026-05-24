@@ -1,0 +1,4 @@
+C:/School/GDPHYSX/Buan - GDPHYSX/out/build/windows-msvc/CMakeFiles/glad.dir
+C:/School/GDPHYSX/Buan - GDPHYSX/out/build/windows-msvc/CMakeFiles/BuanGDPHYSX.dir
+C:/School/GDPHYSX/Buan - GDPHYSX/out/build/windows-msvc/CMakeFiles/ALL_BUILD.dir
+C:/School/GDPHYSX/Buan - GDPHYSX/out/build/windows-msvc/CMakeFiles/ZERO_CHECK.dir

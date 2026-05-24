@@ -1,0 +1,10 @@
+^C:\SCHOOL\GDPHYSX\BUAN - GDPHYSX\OUT\BUILD\WINDOWS-MSVC\CMAKEFILES\73DF172E39B0D7372E76490629B445BB\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/School/GDPHYSX/Buan - GDPHYSX" "-BC:/School/GDPHYSX/Buan - GDPHYSX/out/build/windows-msvc" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/School/GDPHYSX/Buan - GDPHYSX/out/build/windows-msvc/BuanGDPHYSX.slnx"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,3 @@
+/home/hiraya/Documents/School/GDPHYSX/Buan - GDPHYSX/build/CMakeFiles/MyOpenGLProject.dir
+/home/hiraya/Documents/School/GDPHYSX/Buan - GDPHYSX/build/CMakeFiles/edit_cache.dir
+/home/hiraya/Documents/School/GDPHYSX/Buan - GDPHYSX/build/CMakeFiles/rebuild_cache.dir

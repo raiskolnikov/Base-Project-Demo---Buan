@@ -1,0 +1,4 @@
+/home/hiraya/Documents/School/GDPHYSX/Buan - GDPHYSX/out/build/linux-gcc/CMakeFiles/glad.dir
+/home/hiraya/Documents/School/GDPHYSX/Buan - GDPHYSX/out/build/linux-gcc/CMakeFiles/BuanGDPHYSX.dir
+/home/hiraya/Documents/School/GDPHYSX/Buan - GDPHYSX/out/build/linux-gcc/CMakeFiles/edit_cache.dir
+/home/hiraya/Documents/School/GDPHYSX/Buan - GDPHYSX/out/build/linux-gcc/CMakeFiles/rebuild_cache.dir

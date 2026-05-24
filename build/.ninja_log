@@ -1,0 +1,4 @@
+# ninja log v7
+1	125	1778511653298025403	CMakeFiles/MyOpenGLProject.dir/src/glad.c.o	cec018bab7884784
+1	224	1778511653297379178	CMakeFiles/MyOpenGLProject.dir/src/main.cpp.o	7cb85e52935b39ed
+224	293	1778511653521418984	MyOpenGLProject	c628b4db541b1567

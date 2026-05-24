@@ -1,0 +1,13 @@
+{
+    "[linux]": {
+        "cmake.configureArgs": [
+            "-DCMAKE_TOOLCHAIN_FILE=/home/hiraya/vcpkg/scripts/buildsystems/vcpkg.cmake"
+        ]
+    },
+    "[windows]": {
+        "cmake.configureArgs": [
+            "-DCMAKE_TOOLCHAIN_FILE=C:/vcpkg/scripts/buildsystems/vcpkg.cmake"
+        ],
+        "cmake.buildArgs": ["--config", "Release"]
+    }
+}

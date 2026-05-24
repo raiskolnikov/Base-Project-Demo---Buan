@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/hiraya/Documents/School/GDPHYSX/Buan - GDPHYSX/out/build/linux-gcc",
+  "command": "/usr/bin/gcc  -I\"/home/hiraya/Documents/School/GDPHYSX/Buan - GDPHYSX/include\" -g -o CMakeFiles/glad.dir/src/glad.c.o -c \"/home/hiraya/Documents/School/GDPHYSX/Buan - GDPHYSX/src/glad.c\"",
+  "file": "/home/hiraya/Documents/School/GDPHYSX/Buan - GDPHYSX/src/glad.c",
+  "output": "CMakeFiles/glad.dir/src/glad.c.o"
+},
+{
+  "directory": "/home/hiraya/Documents/School/GDPHYSX/Buan - GDPHYSX/out/build/linux-gcc",
+  "command": "/usr/bin/g++  -I\"/home/hiraya/Documents/School/GDPHYSX/Buan - GDPHYSX/include\" -isystem /home/hiraya/vcpkg/installed/x64-linux/include -g -std=gnu++17 -o CMakeFiles/BuanGDPHYSX.dir/src/main.cpp.o -c \"/home/hiraya/Documents/School/GDPHYSX/Buan - GDPHYSX/src/main.cpp\"",
+  "file": "/home/hiraya/Documents/School/GDPHYSX/Buan - GDPHYSX/src/main.cpp",
+  "output": "CMakeFiles/BuanGDPHYSX.dir/src/main.cpp.o"
+}
+]
